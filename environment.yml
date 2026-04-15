@@ -1,0 +1,4 @@
+name: venv
+channels:
+  - defaults
+prefix: C:\Users\Admin\anaconda3\envs\venv
